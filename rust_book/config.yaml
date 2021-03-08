@@ -1,0 +1,8 @@
+title: "Rust入門記録"
+summary: "Rust 入門するので，その勉強記録"
+topics: ["Rust", "線形代数", "Linux"] # トピック（5つまで）
+published: false # falseだと下書き
+price: 0 # 有料の場合200〜5000
+toc_depth: 2
+chapters:
+  - intro # チャプター1
